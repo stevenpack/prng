@@ -1,0 +1,8 @@
+[package]
+name = "prng-seeded"
+version = "0.1.0"
+authors = ["stevenpack <steven.pack.code@gmail.com>"]
+description = "Pseudo Random Number Generator with preconfigured seeding using time or memory as a weak form of entropy"
+
+[dependencies]
+rand = "0.5.5"
